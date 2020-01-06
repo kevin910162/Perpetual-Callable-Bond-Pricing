@@ -1,0 +1,118 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="refresh" content="10;url=http://www.tpex.org.tw">
+<title> 證券櫃檯買賣中心 </title>
+<link rel="icon" type="image/ico" href="/web/images/favicon.ico">
+<link rel="SHORTCUT ICON" href="/web/images/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/css/gtsm.css">
+</head>
+<body>
+<center>
+<div class="v-pnl header-pnl">
+	<div class="v-pnl">
+		<div class="h-pnl header-logo-pnl"><a tabindex="1" href="/web/index.php?l=zh-tw"><div class="gtsm-sprite gtsm-sprite-tpexlogo"></div></a></div>		
+	</div>	
+</div>
+<div class="v-pnl menu-pnl">
+  &nbsp;
+</div>
+<div class="v-pnl">	
+    	<br>
+		<br>
+		<p>您好:</p>
+    	<p>很抱歉，您所輸入的網址並不存在，建議您可以利用搜尋功能查詢。</p> 		
+		<p>Sorry, the page you requested was not found.</p>
+		<p>Please check the URL for proper spelling and capitalization.Also, you may find what you're looking for if you try searching below.</p>
+		
+		&nbsp;<a href="/index.php" class="header_text01_over">回證券櫃檯買賣中心首頁</a>
+		<br>
+		<br>
+		<br>
+		<br>
+</div>
+
+<div class="v-pnl footer-pnl pt5">
+    <div class="v-pnl footer-function-pnl">		
+        <div class="h-pnl first">
+            <h3>常用交易資訊</h3>
+            <ul>
+                <li><a class="footer-function-over" href="/web/stock/index_info/Inxh/inx.php?l=zh-tw">櫃買指數歷史資料</a></li>				
+                <li><a class="footer-function-over" href="/web/stock/aftertrading/daily_trading_info/st43.php?l=zh-tw">上櫃個股歷史行情</a></li>				
+                <li><a class="footer-function-over" href="/web/emergingstock/single_historical/history.php?l=zh-tw">興櫃個股歷史行情</a></li>				
+                <li><a class="footer-function-over" href="/web/stock/margin_trading/margin_balance/margin_bal.php?l=zh-tw" target="_blank">融資融券餘額表</a></li>
+                <li><a class="footer-function-over" href="/web/stock/margin_trading/margin_sbl/margin_sbl.php?l=zh-tw">融券借券賣出餘額</a></li>
+                <li><a class="footer-function-over" href="/web/stock/margin_trading/margin_mark/margin_mark.php?l=zh-tw">平盤下得融(借)券賣出之證券名單</a></li>				
+            </ul>
+            <ul>
+                <li><a class="footer-function-over" href="/web/stock/3insti/3insti_SUMMARY/3itrdsum.php?l=zh-tw">三大法人買賣金額彙總表</a></li>
+                <li><a class="footer-function-over" href="/web/stock/3insti/sitc_trading/sitctr.php?l=zh-tw">投信買賣超彙總表</a></li>
+                <li><a class="footer-function-over" href="/web/stock/3insti/qfii_trading/forgtr.php?l=zh-tw">外資及陸資買賣超彙總表</a></li>
+                <li><a class="footer-function-over" href="http://www.twse.com.tw/ch/trading/SBL/TWT96U/TWT96U.php" target="_blank">當日可借券賣出股數</a></li>
+            </ul>
+        </div>
+        <div class="h-pnl">
+            <h3>統計資料</h3>
+            <ul>
+                <li><a class="footer-function-over" href="/web/stock/statistics/monthly/monthly_rpt_mkt_info_02.php?l=zh-tw">上櫃股票統計</a></li>
+                <li><a class="footer-function-over" href="/web/stock/statistics/monthly/monthly_rpt_mkt_info_09.php?l=zh-tw">上櫃公司市值、本益比、殖利率、投資報酬率一覽表</a></li>
+                <li><a class="footer-function-over" href="/web/stock/aftertrading/peratio_analysis/pera.php?l=zh-tw">個股本益比、殖利率、股價淨值比</a></li>
+                <li><a class="footer-function-over" href="/web/regular_emerging/corporateInfo/overview/overview.php?l=zh-tw">櫃檯買賣概況表</a></li>
+            </ul>
+        </div>
+        <div class="h-pnl">
+            <h3>常用資訊</h3>
+            <ul>
+                <li><a class="footer-function-over" href="http://ic.tpex.org.tw/" target="_blank"><img src="/storage/zh-tw/web/link/images/ic.png" style="height: 16px;width: 21px;"><b>產業價值鏈資訊平台</b></a></li>	
+                <li><a class="footer-function-over" href="http://www.twse.com.tw/ch/products/SBL/SBL_info.php" target="_blank">有價證券借貸</a></li>
+                <li><a class="footer-function-over" href="/web/bulletin/trading_date/trading_date.php?l=zh-tw">開休市日期表</a></li>
+                <li><a class="footer-function-over" href="https://investor.twse.com.tw/" target="_blank">投資人個人資料查詢</a></li>
+                <li><a class="footer-function-over" href="/web/regular_emerging/governance/corporate_governance_01.php?l=zh-tw">公司治理</a></li>
+                <li><a class="footer-function-over" href="/web/regular_emerging/apply_schedule/applicant/applicant_companies.php?l=zh-tw">向本中心申請上櫃公司</a></li>
+                <li><a class="footer-function-over" href="/web/bulletin/announcement/announcement_result.php?l=zh-tw">市場公告</a></li>		
+            </ul>
+        </div>
+        <div class="h-pnl w130">
+            <h3>法令規章</h3>
+            <ul>
+                <li><a class="footer-function-over" href="/web/bulletin/announcement_law/announcement_law.php?l=zh-tw">近期修訂資訊</a></li>
+            </ul>
+            <h3>文件下載</h3>
+            <ul>
+                <li><a class="footer-function-over" href="/web/inc/index_issuer_manual_dl.php?CO_TYPE=1&DOC_ID=1">上櫃公司應辦事項</a></li>
+                <li><a class="footer-function-over" href="/web/inc/index_issuer_manual_dl.php?CO_TYPE=2&DOC_ID=1">興櫃公司應辦事項</a></li>
+                <li><a class="footer-function-over" href="/web/regular_emerging/download/apply_form/apply_form.php?l=zh-tw">上興櫃公司申請表格</a></li>
+            </ul>
+        </div>	
+        <div class="h-pnl w100">
+            <h3>出版品</h3>
+            <ul>							
+                <li><a class="footer-function-over" href="/web/about/publish/annuals/annual.php?l=zh-tw">年報</a></li>
+                <li><a class="footer-function-over" href="/web/about/publish/factbooks/factbook.php?l=zh-tw">年鑑</a></li>
+            </ul>
+            <h3>就業資訊</h3>
+            <ul>
+                <li><a class="footer-function-over" href="http://www8.www.gov.tw/policy/2009career/" target="_blank">就業情報站</a></li>
+            </ul>
+        </div>		
+    </div>
+    <div class="v-pnl footer-link-pnl">
+        <a class="footer-link-over" href="/web/service/qa/investor.php?l=zh-tw">常見問題</a><span class="h-gap">|</span>
+        <a class="footer-link-over" href="/web/about/contact/contact.php?l=zh-tw">聯絡我們</a><span class="h-gap">|</span>
+        <a class="footer-link-over" href="/web/inc/gtsm_related_links.php?l=zh-tw">相關網站</a><span class="h-gap">|</span>
+        <a class="footer-link-over" href="/web/inc/gtsm_disclaimer.php?l=zh-tw">使用條款</a><span class="h-gap">|</span>
+        <a class="footer-link-over" href="/web/inc/gtsm_privacy_rights.php?l=zh-tw">隱私權保護說明</a><span class="h-gap">|</span>
+        <a class="footer-link-over" href="/storage/publish/others/04000001個人資料管理政策聲明.pdf" target="_blank">個人資料管理政策聲明</a> 
+    </div>
+    <div class="v-pnl footer-copy-pnl">
+        證券櫃檯買賣中心 版權所有&copy;&nbsp;&nbsp;10084台北市中正區羅斯福路二段100號15樓 (02)2369-9555&nbsp;投資人服務專線:(02)2366-6100
+    </div>
+    <div class="v-pnl footer-browser-pnl">
+        本站建議最佳瀏覽條件：螢幕解析度 1024x768 以上，瀏覽器為 Google Chrome、Safari、FireFox 或 Internet Explorer 8 以上。 
+    </div>
+</div>
+</center>
+ 
+</body>
+</html>
