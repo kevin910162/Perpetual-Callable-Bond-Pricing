@@ -35,7 +35,7 @@ class Functions:
         self.df_Cr_Spread.set_index('Maturity')
     
     def LambdaEstimation(self):
-        self.PD=(np.exp(-np.multiply(self.Cr_Spread, self.COC_MT)) - 1) / (self.Setting['LGD'] - 1)  
+        self.PD=(1-np.exp(-np.multiply(self.Cr_Spread, self.COC_MT))) / (self.Setting['LGD'])  
     
     def loss_func(self,lamb) : 
         E_PD = list( (1 - np.exp(-lamb*i)) for i in self.COC_MT)
